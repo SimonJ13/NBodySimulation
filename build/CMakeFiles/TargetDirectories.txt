@@ -1,3 +1,0 @@
-C:/Users/simon/OneDrive/Documents/Nbody/build/CMakeFiles/nbody_cpu.dir
-C:/Users/simon/OneDrive/Documents/Nbody/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/simon/OneDrive/Documents/Nbody/build/CMakeFiles/ZERO_CHECK.dir
